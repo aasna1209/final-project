@@ -5,7 +5,7 @@
     "c1": 2,
     "c2": "",
     "c3": "",
-    "story": "You are world famous consulting detective, Sherlock Holmes. You live with your flatmate and assistant John Watson at 221B Baker Street. People from all                  over the country and even the world come to you for help when they need to solve a mystery.",
+    "story": "You are world famous consulting detective, Sherlock Holmes. You live with your flatmate and assistant John Watson at 221B Baker Street and people from all over the country come to you for help when they need to solve a mystery.",
     "navigation": "Do you agree to help Mr.Knight and solve this mystery? Y/N",
     "win": 0,
     "lose": 0,
@@ -21,9 +21,7 @@
     "c1": 3,
     "c2": "",
     "c3": "",
-    "story": "You and Watson arrive at the Dartmoor inn and you give the innkeeper 600 pounds for 3 days worth of lodgings. You then immediately begin asking locals about the hound and the town of Dartmoor. 
-              No one seems particularily interested in talking to you, except for a scrawny, middle-aged man in drab attire who seems really keen to have a conversation with you. 
-              However,he gives you a condition first: You must play his little anagram game first, and only if you succeed will he give you any information.",
+    "story": "You and Watson arrive at the Dartmoor inn and you give the innkeeper 600 pounds for 3 days worth of lodgings." 
     "navigation": "Do you want to play the game? Y/N",
     "win": 0,
     "lose": 0,
@@ -55,8 +53,8 @@
     "c1": "",
     "c2": "",
     "c3": "",
-    "story": "Now that the game is complete, the man is eager to talk to you.He begins talking to you and you learn that the hound has been a local legend for many years.    
-              Speaking in hushed tones, he tells you about Baskerville, a nearby Ministry of Defence research base.It has intrigued the locals for many years, and many conspiracy theorists have linked the hound to the base.",
+    "story": "Now that the game is complete, the man is eager to talk to you.He begins talking to you and you learn that the hound has been a local legend for many years."   
+ 
     "navigation": "Would you like to visit Baskerville? Y/N",
     "win": "",
     "lose": "",
@@ -89,7 +87,7 @@
     "c2": "",
     "c3": "",
     "story": "You win the detective game and get the pass to Baskerville. You are now able to visit Baskerville and access the premises.",
-    "navigation": "directly go to baskerville",
+    "navigation": "Directly go to baskerville",
     "win": 0,
     "lose": 0,
     "stranger": 0,
@@ -104,8 +102,7 @@
     "c1": 7,
     "c2": 2,
     "c3": "",
-    "story": "You and John arrive at Baskerville, a modest, unassuming building that one would not pin down as a government building,let alone a research base.Even more surprising was the fact that there were only two security guards on the premises,standing in front of a vault-like metal door.                                                              
-              You walk up to the guards, and flash them the security pass, explaining that you're there to do some work on a government contract for Mr.Mycroft Holmes.",
+    "story": "You and John arrive at Baskerville, a modest, unassuming building that one would not pin down as a government building,let alone a research base.",
     "navigation": "What do you want to do next? Press A to  go back to the Inn Press B to  meet Henry at the Hollow and continue to solve the mystery",
     "win": 0,
     "lose": 0,
@@ -137,8 +134,7 @@
     "c1": 9,
     "c2": "",
     "c3": "",
-    "story": "You awaken on the forest floor, with a slight cramp in your neck and a pounding headache but no serious injuries.You vaguely recall being attacked by a hound, but are spooked by the lack of any physical injuries.                                                                 
-              Shaking the leaves off your coat you get up from the ground, hestitantly scan your surroundings and then decide to meet with John to discuss your bizarre experience.",
+    "story": "You awaken on the forest floor, with a slight cramp in your neck and a pounding headache but no serious injuries.
     "navigation": "Would you like to visit Baskerville again? Y/N",
     "win": 0,
     "lose": 0,
@@ -218,10 +214,7 @@
     "c1": 13,
     "c2": "",
     "c3": "",
-    "story": "1. The flask with the words Liberty, IN, stands for Liberty Indiana, where the project first began.                                                                          
-              2. The black, disk-like object in the woods, is the filter cartridge of a gas-mask, which was probably used by someone in the forest who is routinely releasing the gas to create hallucinations.                                                        
-              3.The innkeepers missing dog, that is said to sometimes roam around the moor and hollow, appears as a vicious and deadly hound when someone is under the influence of the chemical.                                                                  
-              4.The random thick patches of fog on the forest floor, aren't simply a product of the weather conditions, but are a product of the heavy and extended use of the chemical weapon in that area.",
+    "story": "",
     "navigation": "You have now completed Part 1 of the mystery. Press A if you want to exit or Press B if you want to continue the mystery and find out who's behind the H.O.U.N.D project.",
     "win": 1,
     "lose": 0,
@@ -237,12 +230,10 @@
     "c1": 14,
     "c2": 15,
     "c3": 16,
-    "story": "When you were looking through the Baskerville Database, you noted down a few notable names of people who had previously worked at the lab. 
-              You suspect that Gareth Frankland's disapperance has something to do with the continuation of the H.O.U.N.D project, and want to question the people you found about it.",
-    "navigation": "There are three people on your list to question.                                                                                                                                               
-                   Press A to interview Sarah                                                                                                                                                                                               
-                   Press B to interview Alex                                                                                                                                                                                               
-                   Press C to interview Emory",
+    "story": "When you were looking through the Baskerville Database, you noted down a few notable names of people who had previously worked at the lab. You suspect that Gareth Frankland's disapperance has something to do with the continuation of the H.O.U.N.D project, and want to question the people you found about it.",
+    "navigation": "There are three people on your list to question. Press A to interview Sarah Press B to interview Alex Press C to interview Emory",                                                                                                                                           
+                                                                                                                                                                                                                
+                                                                                                                                                                                                                              
     "win": 0,
     "lose": 0,
     "stranger": 1,
@@ -257,8 +248,8 @@
     "c1": 15,
     "c2": 16,
     "c3": "",
-    "story": "You interview Sarah and learn that she worked at the lab for five years as a researcher in the early 90's and she tells you everything about her research. However, she fails to mention anything about Frankland and the Hound Project.",
-    "navigation": "You didn't manage to get any information from Sarah. Who do you want to talk to next?   Press A for Emory Press B for Alex",
+    "story": "You interview Sarah and learn that she worked at the lab for five years as a researcher in the early 90's and she tells you everything about her research."
+    "navigation": "You didn't manage to get any information from Sarah. Who do you want to talk to next? Press A for Emory Press B for Alex",
     "win": "",
     "lose": "",
     "stranger": "",
@@ -274,8 +265,7 @@
     "c2": "",
     "c3": "",
     "story": "You meet Alex at the local park, hes a peculiar, old, haggerd fellow who refuses to give up any information unless you pay him the right price.",
-    "navigation": "Once again, you didn't get enough information.                          
-                   Press A to interview Emory, your last hope for any information.",
+    "navigation": "Once again, you didn't get enough information. Press A to interview Emory, your last hope for any information.",
     "win": 0,
     "lose": 0,
     "stranger": 1,
@@ -290,14 +280,8 @@
     "c1": 17,
     "c2": "",
     "c3": "",
-    "story": "You meet Emory at the local pub, and you’re hopeful that he'll give you some information due to the enthusiasim of his emails during your correspondence.                                               
-             Without any nagging or a request for a bribe, Emory begins telling you about the H.O.U.N.D project, which he worked on for a few years in the 90's.  
-             He tells you that he stopped working there when they began testing on human subjects and actually saw its harmful effects. 
-             He also grew dubious of the principal investigator of the research, Joseph Hartry.                                                          
-             Emory shows you an old news clipping of the two, him and Joseph in the lab and you realize that Joseph is in fact Gareth Frankland.                                                                                
-             You ask Emory if he knows of Hartrys whereabouts and he tells you that he heard he was living in Plymouth now.",
-    "navigation": "You now know where Frankland possibly is, and that he's living under the alias of Joseph Hartry.                                                                                                               
-                   Press A to go to Plymouth and continue the investigation.",
+    "story": "You meet Emory at the local pub, and you’re hopeful that he'll give you some information due to the enthusiasim of his emails during your correspondence.",
+    "navigation": "You now know where Frankland possibly is, and that he's living under the alias of Joseph Hartry. Press A to go to Plymouth and continue the investigation.",
     "win": 0,
     "lose": 0,
     "stranger": 1,
@@ -312,12 +296,11 @@
     "c1": 18,
     "c2": 19,
     "c3": 20,
-    "story": "You and John found a few notable Joseph Hartrys during your online searches, so you send John ahead of you to scope out these places and to find out where the Joseph Hartry your looking for actually lives.                                                                             
-              Within a day he comes back to you with an address for the man himself.",
-    "navigation": "You have a few options now:                                                                                                                                                                                                                                                          
-                   Press A to break into Hartrys house                                                                                                                                                                    
-                   Press B to go to Party City to pick up  a disguise before meeting  Hartry himself                                                                         
-                   Press C to go to Party Town because you think they have much better disguises than Party City",
+    "story": "You and John found a few notable Joseph Hartrys during your online searches, so you send John ahead of you to scope out these places and to find out where the Joseph Hartry your looking for actually lives.",                                                                           
+            
+    "navigation": "You have a  Press A to break into Hartrys house Press B to go to Party City to pick up  a disguise before meeting  Hartry himself Press C to go to Party Town because you think they have much better disguises than Party City",                                                                                                                                                                                  
+                                                                          
+                  
     "win": 0,
     "lose": 0,
     "stranger": 1,
@@ -332,11 +315,9 @@
     "c1": 22,
     "c2": "",
     "c3": "",
-    "story": "With some easy lock picking, you both manage to break into Franklands apartment. The place is almost bare with only the necessary items of furniture.                                                                      
-              You investigate the living room, kitchen, bathroom and find each room as equally sparse as the next.                                                 
-              However, its a different story when you enter his bedroom.",
-    "navigation": "Good Job, you found all the necessary items.                                                                                                         
-                   Press A to continue on to the next location.",
+    "story": "With some easy lock picking, you both manage to break into Franklands apartment. The place is almost bare with only the necessary items of furniture.",
+    "navigation": "Good Job, you found all the necessary items. Press A to continue on to the next location.",                                                                                                         
+                   
     "win": 0,
     "lose": 0,
     "stranger": 0,
@@ -352,9 +333,9 @@
     "c2": "",
     "c3": "",
     "story": "You and John find yourself in Party City, looking for disguises before meeting Hartry (or Frankland) at his home, because you can't possible go as yourself, world renowned detective Sherlock Holmes.",
-    "navigation": "Which disguise do you pick for yourself?                                                                                                                         
-                  A. A fake beard and moustache + repair man costume                                                                                               
-                  B. A fake beard and unibrow + glasses",
+    "navigation": "Which disguise do you pick for yourself?  A. A fake beard and moustache + repair man costume  B. A fake beard and unibrow + glasses",                                                                                                                                    
+                                                                                                   
+                 
     "win": 0,
     "lose": 0,
     "stranger": 0,
@@ -370,9 +351,7 @@
     "c2": "",
     "c3": "",
     "story": "You and John find yourself in PartyTown, looking for disguises before meeting Hartry (or Frankland) at his home, because you can't possible go as yourself, world renowned detective Sherlock Holmes.",
-    "navigation": "Which disguise do you pick for yourself?                                                                                                                         
-                  A. A fake beard and moustache + repair man costume                                                                                               
-                  B. A fake beard and unibrow + glasses",
+    "navigation": "Which disguise do you pick for yourself?   A. A fake beard and moustache + repair man costume    B. A fake beard and unibrow + glasses",                                                                                              
     "win": 0,
     "lose": 0,
     "stranger": 0,
@@ -387,10 +366,7 @@
     "c1": 22,
     "c2": "",
     "c3": "",
-    "story": "You and John, dressed in your disguises make your way to Franklands apartment.                                                                                                                    
-              Knocking on the door you almost expect him not to open the door but then two knocks later and the door swings open and Frankland is stood there with a grimace.           
-              He looks annoyed and begrundingly lets you both in to do the annual maintenance checks, ordered by the management of the apartment.                                                                     
-              John plays the role of the friendly repair man, and constanly engages him in discussion, while you snoop around the apartment.",
+    "story": "You and John, dressed in your disguises make your way to Franklands apartment.",
     "navigation": "",
     "win": 0,
     "lose": 0,
@@ -406,10 +382,10 @@
     "c1": 23,
     "c2": 20,
     "c3": 22,
-    "story": "You manage to take a few pictures and take some items that prove Frankland has been part of the H.O.U.N.D project, and also install a few secret cameras and microphones around his apartment.                                                
-             A few hours later, you and John both check into the Plymouth Inn, for a few days, so you can begin putting a report and case together against Frankland, that you'll eventually present to the Scotland Yard.",
-    "navigation": "Press A: to meet Lestrade, your contact from the Scotland Yard, so you can present all the evidence to him and wrap up the case once and for all.                                                                                  
-                   Press B: to go back to Franklands residence to collect more information and evidence.",
+    "story": "You manage to take a few pictures and take some items that prove Frankland has been part of the H.O.U.N.D project, and also install a few secret cameras and microphones around his apartment.",                                               
+           
+    "navigation": "Press A: to meet Lestrade, your contact from the Scotland Yard, to present all the evidence to him and wrap up the case.  Press B: to go back to Franklands residence to collect more information and evidence.",                                                                                 
+                  
     "win": 0,
     "lose": 0,
     "stranger": 0,
@@ -424,10 +400,7 @@
     "c1": 24,
     "c2": "",
     "c3": "",
-    "story": "You and John meet Lestrade at the Scotland Yard headquarters in London.                                                                                                                                     
-              Lestrade didn’t seem too convinced by the case when you first spoke to him on the phone, 
-              but as you present every piece of evidence to him, his eyes begin to widen and his interest deepens.                                                                                                                                                                           
-              He agrees to working with the Dartmoor and Plymouth police divisions on this case and promises to keep you updated.",
+    "story": "You and John meet Lestrade at the Scotland Yard headquarters in London.",
     "navigation": "",
     "win": 0,
     "lose": 0,
@@ -443,11 +416,7 @@
     "c1": 25,
     "c2": "",
     "c3": "",
-    "story": "Its been a long week, and you're finally back home in London at 221 B Baker Street.                            
-              You were just thinking about Frankland and the Dartmoor case, when John hurridly runs to the TV and turns it on. 
-              On the screen is footage of Lestrade and members of the Plymouth police force outside Franklands home as he is led outside in handcuffs.                                                                                                                                                     
-              The headlines say Former Baskerville Research Scientist Arrested.                                 
-              John Suggests that you both celebrate with a trip to the pub.",
+    "story": "Its been a long week, and you're finally back home in London at 221 B Baker Street.",
     "navigation": "Press A to go to the pub with John or Press B to End the game.",
     "win": 0,
     "lose": 0,
