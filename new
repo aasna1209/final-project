@@ -5,8 +5,7 @@
     "c1": 2,
     "c2": "",
     "c3": "",
-    "story": "You are world famous consulting detective, Sherlock Holmes. You live with your flatmate and assistant John Watson at 221B Baker Street.
-               People from all over the country and even the world come to you for help when they need to solve a mystery.",
+    "story": "You are world famous consulting detective, Sherlock Holmes. You live with your flatmate and assistant John Watson at 221B Baker Street. People from all                  over the country and even the world come to you for help when they need to solve a mystery.",
     "navigation": "Do you agree to help Mr.Knight and solve this mystery? Y/N",
     "win": 0,
     "lose": 0,
