@@ -21,8 +21,7 @@
     "c1": 3,
     "c2": "",
     "c3": "",
-    "story": "You and Watson arrive at the Dartmoor inn and you give the innkeeper 600 pounds for 3 days worth of lodgings.                                        
-              You then immediately begin asking locals about the hound and the town of Dartmoor. 
+    "story": "You and Watson arrive at the Dartmoor inn and you give the innkeeper 600 pounds for 3 days worth of lodgings. You then immediately begin asking locals about the hound and the town of Dartmoor. 
               No one seems particularily interested in talking to you, except for a scrawny, middle-aged man in drab attire who seems really keen to have a conversation with you. 
               However,he gives you a condition first: You must play his little anagram game first, and only if you succeed will he give you any information.",
     "navigation": "Do you want to play the game? Y/N",
@@ -40,8 +39,7 @@
     "c1": 4,
     "c2": "",
     "c3": "",
-    "story": "Welcome to the Anagram Game, Mr.Holmes! Guess the scrambled word using the hints.
-              You have four guesses each turn.",
+    "story": "Welcome to the Anagram Game, Mr.Holmes! Guess the scrambled word using the hints. You have four guesses each turn.",
     "navigation": "",
     "win": 0,
     "lose": 0,
@@ -57,10 +55,8 @@
     "c1": "",
     "c2": "",
     "c3": "",
-    "story": "Now that the game is complete, the man is eager to talk to you.                                               
-              He begins talking to you and you learn that the hound has been a local legend for many years.    
-              Speaking in hushed tones, he tells you about Baskerville, a nearby Ministry of Defence research base. 
-              It has intrigued the locals for many years, and many conspiracy theorists have linked the hound to the base.",
+    "story": "Now that the game is complete, the man is eager to talk to you.He begins talking to you and you learn that the hound has been a local legend for many years.    
+              Speaking in hushed tones, he tells you about Baskerville, a nearby Ministry of Defence research base.It has intrigued the locals for many years, and many conspiracy theorists have linked the hound to the base.",
     "navigation": "Would you like to visit Baskerville? Y/N",
     "win": "",
     "lose": "",
@@ -76,8 +72,7 @@
     "c1": 5,
     "c2": "",
     "c3": "",
-    "story": "You and John have the location for the Baskerville reearch base but realise that you don't have security  clearance to enter the premises.
-             But then you remember that your brother, Mycroft, works for the government and probably has  security clearance to enter the building, so you decide to text him with your request.",
+    "story": "You and John have the location for the Baskerville reearch base but realise that you don't have security clearance to enter the premises. But then you remember that your brother, Mycroft, works for the government and probably has  security clearance to enter the building, so you decide to text him with your request.",
     "navigation": "Do you agree to play the game? Y/N",
     "win": 0,
     "lose": 0,
@@ -109,8 +104,7 @@
     "c1": 7,
     "c2": 2,
     "c3": "",
-    "story": "You and John arrive at Baskerville, a modest, unassuming building that one would not pin down as a government building,let alone a research base.                                                      
-              Even more surprising was the fact that there were only two security guards on the premises,standing in front of a vault-like metal door.                                                              
+    "story": "You and John arrive at Baskerville, a modest, unassuming building that one would not pin down as a government building,let alone a research base.Even more surprising was the fact that there were only two security guards on the premises,standing in front of a vault-like metal door.                                                              
               You walk up to the guards, and flash them the security pass, explaining that you're there to do some work on a government contract for Mr.Mycroft Holmes.",
     "navigation": "What do you want to do next? Press A to  go back to the Inn Press B to  meet Henry at the Hollow and continue to solve the mystery",
     "win": 0,
@@ -143,8 +137,7 @@
     "c1": 9,
     "c2": "",
     "c3": "",
-    "story": "You awaken on the forest floor, with a slight cramp in your neck and a pounding headache but no serious injuries.                                       
-              You vaguely recall being attacked by a hound, but are spooked by the lack of any physical injuries.                                                                 
+    "story": "You awaken on the forest floor, with a slight cramp in your neck and a pounding headache but no serious injuries.You vaguely recall being attacked by a hound, but are spooked by the lack of any physical injuries.                                                                 
               Shaking the leaves off your coat you get up from the ground, hestitantly scan your surroundings and then decide to meet with John to discuss your bizarre experience.",
     "navigation": "Would you like to visit Baskerville again? Y/N",
     "win": 0,
@@ -225,8 +218,8 @@
     "c1": 13,
     "c2": "",
     "c3": "",
-    "story": "1. The flask with the words Liberty, IN, stands for Liberty Indiana, where the project first began.                                                                           
-              2.  The black, disk-like object in the woods, is the filter cartridge of a gas-mask, which was probably used by someone in the forest who is routinely releasing the gas to create hallucinations.                                                        
+    "story": "1. The flask with the words Liberty, IN, stands for Liberty Indiana, where the project first began.                                                                          
+              2. The black, disk-like object in the woods, is the filter cartridge of a gas-mask, which was probably used by someone in the forest who is routinely releasing the gas to create hallucinations.                                                        
               3.The innkeepers missing dog, that is said to sometimes roam around the moor and hollow, appears as a vicious and deadly hound when someone is under the influence of the chemical.                                                                  
               4.The random thick patches of fog on the forest floor, aren't simply a product of the weather conditions, but are a product of the heavy and extended use of the chemical weapon in that area.",
     "navigation": "You have now completed Part 1 of the mystery. Press A if you want to exit or Press B if you want to continue the mystery and find out who's behind the H.O.U.N.D project.",
