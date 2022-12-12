@@ -21,7 +21,7 @@
     "c1": 3,
     "c2": "",
     "c3": "",
-    "story": "You and Watson arrive at the Dartmoor inn and you give the innkeeper 600 pounds for 3 days worth of lodgings.",
+    "story": "You and Watson arrive at the Dartmoor inn and you give the innkeeper 600 pounds for 3 days worth of lodgings",
     "navigation": "Do you want to play the game? Y/N",
     "win": 0,
     "lose": 0,
@@ -53,7 +53,7 @@
     "c1": "",
     "c2": "",
     "c3": "",
-    "story": "Now that the game is complete, the man is eager to talk to you.He begins talking to you and you learn that the hound has been a local legend for many years."   
+    "story": "Now that the game is complete, the man is eager to talk to you.He begins talking to you and you learn that the hound has been a local legend for many years.",  
  
     "navigation": "Would you like to visit Baskerville? Y/N",
     "win": "",
