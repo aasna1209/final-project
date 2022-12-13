@@ -229,7 +229,7 @@
     "c1": 15,
     "c2": 16,
     "c3": 17,
-    "story": "When you were looking through the Baskerville Database, you noted down a few notable names of people who had previously worked at the lab. You suspect that Gareth Frankland's \"disapperance\" has something to do with the continuation of the H.O.U.N.D project, and want to question the people you found about it.",
+    "story": "When you were looking through the Baskerville Database, you noted down a few notable names of people who had previously worked at the lab. You suspect that Gareth Frankland's disapperance has something to do with the continuation of the H.O.U.N.D project, and want to question the people you found about it.",
     "navigation": "There are three people on your list to question.  Press A to interview Sarah|  Press B to interview Alex | Press C to interview Emory",
     "win": 0,
     "lose": 0,
