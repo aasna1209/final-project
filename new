@@ -69,7 +69,7 @@
     "c1": 5,
     "c2": "",
     "c3": "",
-    "story": "You and John have the location for the Baskerville reearch base but realise that you don't have security  clearance to enter the premises.",
+    "story": "You and John have the location for the Baskerville reearch base but realise that you don't have security clearance to enter the premises.",
     "navigation": "Do you agree to play the game? Y/N",
     "win": 0,
     "lose": 0,
@@ -118,7 +118,7 @@
     "c2": "",
     "c3": "",
     "story": "After your visit to Baskerville, you meet up with Henry the next day, at the hollow, where he is said to have spotted the hound many times.",
-    "navigation": "Trembling with fear and armed only with pure strength and adrenaline, you now only have two options: A. RUN!   B. Fight the hound and end its terror once and for all.",
+    "navigation": "Trembling with fear and armed only with pure strength and adrenaline, you now only have two options: A. RUN! B. Fight the hound and end its terror once and for all.",
     "win": 0,
     "lose": 0,
     "stranger": 1,
@@ -208,9 +208,9 @@
     "negotiate": 0
   },
   {
-    "rooms": 24,
+    "rooms": 13,
     "name": "End 1",
-    "c1": 13,
+    "c1": 14,
     "c2": "",
     "c3": "",
     "story": "",
@@ -224,13 +224,13 @@
     "negotiate": 0
   },
   {
-    "rooms": 13,
+    "rooms": 14,
     "name": "interview 1",
-    "c1": 14,
-    "c2": 15,
-    "c3": 16,
+    "c1": 15,
+    "c2": 16,
+    "c3": 17,
     "story": "When you were looking through the Baskerville Database, you noted down a few notable names of people who had previously worked at the lab. You suspect that Gareth Frankland's \"disapperance\" has something to do with the continuation of the H.O.U.N.D project, and want to question the people you found about it.",
-    "navigation": "There are three people on your list to question.  Press A to interview Sarah      Press B to interview Alex  Press C to interview Emory",
+    "navigation": "There are three people on your list to question.  Press A to interview Sarah|  Press B to interview Alex | Press C to interview Emory",
     "win": 0,
     "lose": 0,
     "stranger": 1,
@@ -240,13 +240,13 @@
     "negotiate": 0
   },
   {
-    "rooms": 14,
+    "rooms": 15,
     "name": "interview 1",
-    "c1": 15,
-    "c2": 16,
+    "c1": 16,
+    "c2": 17,
     "c3": "",
     "story": "You interview Sarah and learn that she worked at the lab for five years as a researcher in the early 90's",
-    "navigation": "You didn't manage to get any information from Sarah. Who do you want to talk to next?  Press A for Emory    Press B for Alex",
+    "navigation": "You didn't manage to get any information from Sarah. Who do you want to talk to next?  Press A for Emory  Press B for Alex",
     "win": "",
     "lose": "",
     "stranger": "",
@@ -256,9 +256,9 @@
     "negotiate": 0
   },
   {
-    "rooms": 15,
+    "rooms": 16,
     "name": "interview 2",
-    "c1": 16,
+    "c1": 17,
     "c2": "",
     "c3": "",
     "story": "You meet Alex at the local park, hes a peculiar, old, haggerd fellow who refuses to give up any information unless you pay him the \"right\" price.",
@@ -272,9 +272,9 @@
     "negotiate": 1
   },
   {
-    "rooms": 16,
+    "rooms": 17,
     "name": "interview 3",
-    "c1": 17,
+    "c1": 18,
     "c2": "",
     "c3": "",
     "story": "You meet Emory at the local pub, and you’re hopeful that he'll give you some information due to the enthusiasim of his emails during your correspondence.",
@@ -288,13 +288,13 @@
     "negotiate": ""
   },
   {
-    "rooms": 17,
+    "rooms": 18,
     "name": "Plymouth",
-    "c1": 18,
-    "c2": 19,
-    "c3": 20,
+    "c1": 19,
+    "c2": 20,
+    "c3": 21,
     "story": "You and John found a few notable Joseph Hartrys in Plymouth in your search online. So you send John ahead of you to scope out these places and to find out where the Joseph Hartry your looking for actually lives, which he manages to do within a day.",
-    "navigation": "You have a few options now:  Press A to Break into Hartrys house    Press B to go to Party City to pick up  a disguise before meeting  Hartry himself    Press C to go to Party Town instead",
+    "navigation": "You have a few options now:  Press A to Break into Hartrys house | Press B to go to Party City to pick up a disguise before meeting Hartry himself| Press C to go to Party Town instead",
     "win": 0,
     "lose": 0,
     "stranger": 1,
@@ -304,7 +304,7 @@
     "negotiate": 0
   },
   {
-    "rooms": 18,
+    "rooms": 19,
     "name": "Break into franklands house",
     "c1": 22,
     "c2": "",
@@ -320,7 +320,7 @@
     "negotiate": 0
   },
   {
-    "rooms": 19,
+    "rooms": 20,
     "name": "Party City",
     "c1": 21,
     "c2": "",
@@ -336,7 +336,7 @@
     "negotiate": 1
   },
   {
-    "rooms": 20,
+    "rooms": 21,
     "name": "Party Town",
     "c1": 21,
     "c2": "",
@@ -352,9 +352,9 @@
     "negotiate": 1
   },
   {
-    "rooms": 21,
+    "rooms": 22,
     "name": "Franklands House",
-    "c1": 22,
+    "c1": 23,
     "c2": "",
     "c3": "",
     "story": "You and John, dressed in your disguises make your way to Franklands apartment.",
@@ -368,11 +368,11 @@
     "negotiate": 0
   },
   {
-    "rooms": 22,
+    "rooms": 23,
     "name": "Plymouth inn",
-    "c1": 23,
-    "c2": 20,
-    "c3": 22,
+    "c1": 24,
+    "c2": 22,
+    "c3": "",
     "story": "You manage to take a few pictures and take some items that prove Frankland has been part of the H.O.U.N.D project, and also install a few secret cameras and microphones.",
     "navigation": "Press A: to meet Lestrade, your contact from the Scotland Yard, and present all the evidence to him and wrap up the case. Press B: to go back to Franklands residence to collect more evidence.",
     "win": 0,
@@ -384,9 +384,9 @@
     "negotiate": ""
   },
   {
-    "rooms": 23,
+    "rooms": 24,
     "name": "Scotland Yard (Meeting Lestrade)",
-    "c1": 24,
+    "c1": 25,
     "c2": "",
     "c3": "",
     "story": "You and John meet Lestrade at the Scotland Yard headquarters in London.",
@@ -400,9 +400,9 @@
     "negotiate": 0
   },
   {
-    "rooms": 24,
+    "rooms": 25,
     "name": "The Pub",
-    "c1": 25,
+    "c1": 26,
     "c2": "",
     "c3": "",
     "story": "Its been a long week, and you're finally back home in London at 221 B Baker Street.",
@@ -416,7 +416,7 @@
     "negotiate": 0
   },
   {
-    "rooms": 25,
+    "rooms": 26,
     "name": "End 2",
     "c1": "",
     "c2": "",
